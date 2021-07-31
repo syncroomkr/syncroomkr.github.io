@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="100%"
+     viewBox="57 36 150 332"
+>
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:9px;}.cls-1{stroke:#BABBBF;}
+        </style>
+    </defs>
+    <g>
+        <path class="cls-1" d="M122.51,359.53H99.3"/>
+        <g>
+            <path class="cls-1" d="M122.51,330V171.78"/>
+            <line class="cls-1" x1="194.86" y1="192.14" x2="152.9" y2="192.14"/>
+            <line class="cls-1" x1="194.86" y1="192.14" x2="152.9" y2="192.14"/>
+            <path class="cls-1" d="M122.51,275.61H68"/>
+            <path class="cls-1" d="M122.51,359.53V42.47l35.23,62.2L68,275.61h83"/>
+            <line class="cls-1" x1="194.86" y1="192.14" x2="151.05" y2="275.61"/>
+            <line class="cls-1" x1="134.11" y1="227.91" x2="152.9" y2="192.14"/>
+        </g>
+    </g>
+</svg>
